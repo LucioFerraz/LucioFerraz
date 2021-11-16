@@ -19,7 +19,7 @@
 
 💡 [American Breweries](https://public.tableau.com/app/profile/lucio.ferraz/viz/BrewryDb/Dashboard11) 🍺 – Data gathering with API (Python) and Tableau visualization. This  project was a true adventure into the american brewery universe, analyzed according to size, type, location and others interestings characteristics. Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021).
 
-💡 [Diamond Predict Model](https://github.com/LucioFerraz/DiamondsProject) 💎 – Linear Regression. This was a incredible project which I should estimate the diamond prices by the correlation among multiple variables and business know-how about diamonds sector to do predictions model and find the best price. Project #3 @ ***Ironhack Data Analytics Bootcamp*** (Nov'2021).
+💡 [Diamond Predict Model](https://github.com/LucioFerraz/DiamondsProject) 💎 – Linear Regression. This was a incredible project which I should estimate the diamonds prices by the correlation among multiple variables and business know-how about diamonds sector to do predictions model and find the best price. Project #3 @ ***Ironhack Data Analytics Bootcamp*** (Nov'2021).
 
 💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/lucio.ferraz) – Diving deep into different analysis to deliver meaningful business visualizations.
 
