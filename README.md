@@ -1,5 +1,3 @@
-### Hello, I'm Lúcio Ferraz, 
-
 - 🇧🇷 Brazilian | :eu: European
 - 👨🏻‍💼 Data Analyst | Lawyer
 - 📍 Braga | Portugal
