@@ -2,16 +2,15 @@
 - 👨🏻‍💼 Data Analyst | Lawyer
 - 📍 Braga | Portugal
 - 🔭 I’m currently working in science and technology manager.
-- 📊 I’m changing my career to Data Analytics ♡
+- 📊 I’m changing my career to Data Analytics and seeking opportunities in this area.
 - 🌱 I’m currently an [Ironhack Bootcamper](https://www.ironhack.com/) – improving my Python / SQL / Tableau skills
-- 👯 I’m looking to collaborate on Data Analytics projects
-- 💬 Ask me about trips, I really love travel and explore our beautiful planet 🌍 45 countries and counting...  
-- 📚 Fun fact: I worked as an actor in short films and documentary
+- 💬 I really love travel and explore our beautiful planet 🌍 45 countries and counting...  
+- ⚡️ Fun fact: I worked as an actor in short films and documentary
 - 📫 How to find me: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-ferraz-a05a668a/)
 
-#### Projects I'm proud of:
+Projects developed :
 
-💡 [White Shark Attack](https://github.com/LucioFerraz/Shark_Attack_Project/) 🦈 – Well, that was a huge challenge! But I found the best place where my hypothetical client will have more sucessfull chances in his business. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Set'2021).
+💡 [White Shark Attack](https://github.com/LucioFerraz/Shark_Attack_Project/) 🦈 – It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Set'2021).
 
 💡 [American Breweries](https://public.tableau.com/app/profile/lucio.ferraz/viz/BrewryDb/Dashboard11) 🍺 – Data gathering with API (Python) and Tableau visualization. This  project was a true adventure into the american brewery universe, analyzed interestings characteristics. Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021).
 
