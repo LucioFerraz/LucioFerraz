@@ -7,9 +7,7 @@
 - 👯 I’m looking to collaborate on Data Analytics projects
 - 💬 Ask me about trips, I really love travel and explore our beautiful planet 🌍 45 countries and counting...  
 - 📚 Fun fact: I worked as an actor in short films and documentary
-- 📫 How to reach me: 👇🏻
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-ferraz-a05a668a/)
+- 📫 How to find me: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-ferraz-a05a668a/)
 
 #### Projects I'm proud of:
 
