@@ -3,20 +3,19 @@
 - 📍 Braga | Portugal
 - 🔭 I’m currently working in science and technology manager.
 - 📊 I’m changing my career to Data Analytics and seeking opportunities in this area.
-- 🌱 I’m currently an [Ironhack Bootcamper](https://www.ironhack.com/) – improving my Python / SQL / Tableau skills
+- 🌱 I’m currently an [Ironhack Bootcamper](https://www.ironhack.com/) – improving my Python / SQL / Tableau and others skills
 - 💬 I really love travel and explore our beautiful planet 🌍 45 countries and counting...  
-- ⚡️ Fun fact: I worked as an actor in short films and documentary
-- 📫 How to find me: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-ferraz-a05a668a/)
+- 📫 How to find me: 👔 [linkedin](https://www.linkedin.com/in/lucio-ferraz-a05a668a/) 
 
-Projects developed :
+Projects developed:
 
-💡 [White Shark Attack](https://github.com/LucioFerraz/Shark_Attack_Project/) 🦈 – It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Set'2021).
+💡 [White Shark Attack](https://github.com/LucioFerraz/Shark_Attack_Project/) 🦈 –  So, that was a great challenge in which I had to find the best place for my client to expand their business, in this case locate areas full of white sharks to do diving in the cage. A great business and dangerous experience. It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Sep'2021).
 
-💡 [American Breweries](https://public.tableau.com/app/profile/lucio.ferraz/viz/BrewryDb/Dashboard11) 🍺 – Data gathering with API (Python) and Tableau visualization. This  project was a true adventure into the american brewery universe, analyzed interestings characteristics. Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021).
+💡 [American Breweries](https://public.tableau.com/app/profile/lucio.ferraz/viz/BrewryDb/Dashboard11) 🍺 – Data gathering with API (Python) and Tableau visualization. Well, that was a true adventure into the american brewery universe, analyzed interestings characteristics, types and trendings. Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021).
 
-💡 [Diamond Predict Model](https://github.com/LucioFerraz/DiamondsProject) 💎 – Linear Regression. This was a incredible project which I should estimate the diamonds prices by the correlation among multiple variables and business know-how to do predictions models. Project #3 @ ***Ironhack Data Analytics Bootcamp*** (Nov'2021).
+💡 [Diamond Predict Model](https://github.com/LucioFerraz/DiamondsProject) 💎 – Linear Regression. That was a incredible project which I should estimate the diamonds prices by the correlation among multiple variables and business know-how to do predictions models. Project #3 @ ***Ironhack Data Analytics Bootcamp*** (Nov'2021).
 
-💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/lucio.ferraz) – Diving deep into different analysis to deliver meaningful business visualizations.
+💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/lucio.ferraz) – Some diferents analysis and business insights with Tableau data visualization. 
 
 
 <hr>
