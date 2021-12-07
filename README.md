@@ -13,9 +13,9 @@
 
 🦈 [White Shark Attack](https://github.com/LucioFerraz/Shark_Attack_Project/) –  So, that was a great challenge in which I had to find the best place for my client to expand their business, in this case locate areas full of white sharks to do diving in the cage. A great business and dangerous experience. It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Sep'2021).
 
-🍺 [American Breweries](https://public.tableau.com/app/profile/lucio.ferraz/viz/BrewryDb/Dashboard11) – Data gathering with API (Python) and Tableau visualization. Well, that was a true adventure into the american brewery universe, analyzed interestings characteristics, types and trendings. It´s Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021).
+🍺 [American Breweries](https://public.tableau.com/app/profile/lucio.ferraz/viz/BrewryDb/Dashboard11) – Data gathering with API (Python) and Tableau visualization. Well, that was a true adventure into the american brewery universe, analyzed interestings characteristics, types and trendings. It's Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021).
 
-💎 [Diamond Predict Model](https://github.com/LucioFerraz/DiamondsProject) – Linear Regression. That was a incredible project which I should estimate the diamonds prices by the correlation among multiple variables and business know-how to do predictions models. It´s Project #3 @ ***Ironhack Data Analytics Bootcamp*** (Nov'2021).
+💎 [Diamond Predict Model](https://github.com/LucioFerraz/DiamondsProject) – Linear Regression. That was a incredible project which I should estimate the diamonds prices by the correlation among multiple variables and business know-how to do predictions models. It's Project #3 @ ***Ironhack Data Analytics Bootcamp*** (Nov'2021).
 
 💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/lucio.ferraz) – Some diferents analysis and business insights with Tableau data visualization. 
 
