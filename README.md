@@ -5,7 +5,7 @@
 - 📍 Braga | Portugal
 - 💼 I’m currently working in science and technology manager.
 - 📊 I’m changing my career to Data Analytics and seeking opportunities in this area.
-- 🎓 I’m currently an [Ironhack Bootcamper](https://www.ironhack.com/) – improving my Python / SQL / Tableau and others skills
+- 🎓 I’m currently an [Ironhack Bootcamper](https://www.ironhack.com/) – improving Python / SQL / Tableau and others skills.
 - 💬 I really love travel and explore our beautiful planet 🌍 45 countries and counting...  
 - 📫 How to find me:     <a href="#" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucio-ferraz-a05a668a/" /></a> 
 
