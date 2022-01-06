@@ -17,7 +17,7 @@
 
 💎 [Diamond Predict Model](https://github.com/LucioFerraz/DiamondsProject) – Linear Regression. That was a incredible project which I should estimate the diamonds prices by the correlation among multiple variables and business know-how to do predictions models. It's Project #3 @ ***Ironhack Data Analytics Bootcamp*** (Nov'2021).
 
-👨🏻‍🎓 [𝘗𝘢𝘯-𝘌𝘶𝘳𝘰𝘱𝘦𝘢𝘯 𝘪𝘥𝘦𝘯𝘵𝘪𝘵𝘺 - D𝘰𝘦𝘴 𝘵𝘩𝘦 𝘌𝘳𝘢𝘴𝘮𝘶𝘴 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘵𝘰?](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme) – It's Project #4 @ ***Ironhack Data Analytics Bootcamp*** (Dez'2021).
+👨🏻‍🎓 [𝘗𝘢𝘯-𝘌𝘶𝘳𝘰𝘱𝘦𝘢𝘯 𝘪𝘥𝘦𝘯𝘵𝘪𝘵𝘺 - D𝘰𝘦𝘴 𝘵𝘩𝘦 𝘌𝘳𝘢𝘴𝘮𝘶𝘴 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘵𝘰?](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme) – The Erasmus Programme is the most famous example if student mobility in Europe and probably worldwide with more than 9 million people have participated since its creation. Its possible create a Erasmus Generation that be a powerful force in creating a pan-European Identity? Some insights and numbers about. It's Project #4 @ ***Ironhack Data Analytics Bootcamp*** (Dez'2021).
 
 💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/lucio.ferraz) – Some diferents analysis and business insights with Tableau data visualization. 
 
