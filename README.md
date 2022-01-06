@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 - 🇧🇷 Brazilian | :eu: European
-- 👨🏻‍💼 Data Analyst with a Lawtech background
-- 📍 Braga | Portugal
+- 👨🏻‍💼 Data Analyst with a Lawtech background.
+- 📍 Braga | Portugal.
 - 💼 I’m currently working in science and technology manager.
 - 📊 I’m changing my career to Data Analytics and seeking opportunities in this area.
 - 🎓 I’m currently an [Ironhack Bootcamper](https://www.ironhack.com/) – improving Python / SQL / Tableau and others skills.
@@ -16,6 +16,8 @@
 🍺 [American Breweries](https://public.tableau.com/app/profile/lucio.ferraz/viz/BrewryDb/Dashboard11) – Data collect with API (Python) and Tableau visualization. Well, that was a true adventure into the american brewery universe, analyzed interestings characteristics, types and trendings. It's Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021).
 
 💎 [Diamond Predict Model](https://github.com/LucioFerraz/DiamondsProject) – Linear Regression. That was a incredible project which I should estimate the diamonds prices by the correlation among multiple variables and business know-how to do predictions models. It's Project #3 @ ***Ironhack Data Analytics Bootcamp*** (Nov'2021).
+
+👨🏻‍🎓 [𝘗𝘢𝘯-𝘌𝘶𝘳𝘰𝘱𝘦𝘢𝘯 𝘪𝘥𝘦𝘯𝘵𝘪𝘵𝘺 - D𝘰𝘦𝘴 𝘵𝘩𝘦 𝘌𝘳𝘢𝘴𝘮𝘶𝘴 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦 𝘵𝘰?](https://github.com/LucioFerraz/PanEuropean-Identity-ErasmusProgramme) – It's Project #4 @ ***Ironhack Data Analytics Bootcamp*** (Dez'2021).
 
 💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/lucio.ferraz) – Some diferents analysis and business insights with Tableau data visualization. 
 
