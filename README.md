@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 - 🇧🇷 Brazilian | :eu: European
-- 👨🏻‍💼 Data Analyst | Lawyer
+- 👨🏻‍💼 Data Analyst with a Lawtech background
 - 📍 Braga | Portugal
 - 💼 I’m currently working in science and technology manager.
 - 📊 I’m changing my career to Data Analytics and seeking opportunities in this area.
