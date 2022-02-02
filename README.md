@@ -3,7 +3,7 @@
 - 🇧🇷 Brazilian | :eu: European
 - 👨🏻‍💼 Data Analyst with a Lawtech background.
 - 📍 Braga | Portugal.
-- 💼 I’m currently working in science and technology manager.
+- 💼 I’m currently working in science and technology analyst.
 - 📊 I’m changing my career to Data Analytics and seeking opportunities in this area.
 - 🎓 I’m currently an [Ironhack Bootcamper](https://www.ironhack.com/) – improving Python / SQL / Tableau and others skills.
 - 💬 I really love travel and explore our beautiful planet 🌍 45 countries and counting...  
