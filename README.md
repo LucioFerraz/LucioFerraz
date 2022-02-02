@@ -9,6 +9,8 @@
 - 💬 I really love travel and explore our beautiful planet 🌍 45 countries and counting...  
 - 📫 How to find me:     <a href="#" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucio-ferraz-a05a668a/" /></a> 
 
+![icon](https://user-images.githubusercontent.com/85910782/152190075-169eadca-0012-444c-bf68-8e5e4187ab57.png) Click here to [Check my Portfólio](https://troopl.com/lucioferraz). 
+
 ***Projects developed:***
 
 🦈 [White Shark Attack](https://github.com/LucioFerraz/Shark_Attack_Project/) –  So, that was a great challenge in which I had to find the best place for my client to expand their business, in this case locate areas full of white sharks to do diving in the cage. A great business and dangerous experience. It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Sep'2021).
@@ -21,10 +23,6 @@
 
 💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/lucio.ferraz) – Some diferents analysis and business insights with Tableau data visualization. 
 
-
-
-
-Click here to [Check my Portfólio](https://troopl.com/lucioferraz). 
 
 <hr>
 
