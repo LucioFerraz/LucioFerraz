@@ -11,7 +11,7 @@
 <br>
 
 
-🔎 Click here to [check my **Portfólio**](https://troopl.com/lucioferraz). 
+🔎 Click here to [check my **Portfolio**](https://troopl.com/lucioferraz). 
 
 
 <br>
