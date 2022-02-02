@@ -22,7 +22,7 @@
 💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/lucio.ferraz) – Some diferents analysis and business insights with Tableau data visualization. 
 
 
-Click here to check my Portfólio [Check my Tableau Visualizations] (troopl.com/lucioferraz). 
+Click here to check my Portfólio [Check my Troopl Portfólio] (https://troopl.com/projects). 
 
 <hr>
 
