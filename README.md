@@ -9,7 +9,7 @@
 - 💬 I really love travel and explore our beautiful planet 🌍 45 countries and counting...  
 - 📫 How to find me:     <a href="#" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucio-ferraz-a05a668a/" /></a> 
 
-![icon](https://user-images.githubusercontent.com/85910782/152190075-169eadca-0012-444c-bf68-8e5e4187ab57.png) Click here to [Check my Portfólio](https://troopl.com/lucioferraz). 
+![icon](🔎) Click here to [Check my Portfólio](https://troopl.com/lucioferraz). 
 
 ***Projects developed:***
 
